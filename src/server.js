@@ -31,7 +31,7 @@ app.get('/startcodepage',(req,res)=>{
 
 app.get('/image',(req,res)=>{
     app.use(express.static('pages'));
-    res.sendFile(path.resolve(__dirname,'pages','wecode4.png')); 
+    res.sendFile(path.resolve(__dirname,'pages','codet.png')); 
      
 });
 
