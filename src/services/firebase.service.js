@@ -1,8 +1,8 @@
 export function InitFireBase() {
     // Initialize the Firebase SDK.
     firebase.initializeApp({
-      apiKey: "AIzaSyCkq2vScjRFdg6GhLt-NZrNXr1-xnUfMQY",
-      databaseURL: "https://wecode-e8a89-default-rtdb.firebaseio.com/"
+      apiKey: "AIzaSyBPZxBTSjk9oYqkdiyh29yv6d7QtkrInDU",
+      databaseURL: "https://codetogether-ea068-default-rtdb.firebaseio.com/"
     });
   
     // Get Firebase Database reference.
